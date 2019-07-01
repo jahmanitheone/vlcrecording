@@ -7,6 +7,6 @@ vlcreadme.pdf - All in one place for all the steps
 
 vldslide.pdf - Step by step using a slide along format
 
-youtube.com video (https://www.youtube.com/watch?v=YIgOEXYO9do)
+youtube.com video (https://youtu.be/fZ38STpxPX4)
 
 
